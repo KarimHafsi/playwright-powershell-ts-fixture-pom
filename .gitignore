@@ -1,0 +1,13 @@
+/report/test-results
+/report/results.xml
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/secrets.json
+/node_modules
+/browsers/chrome-win/
+/simulators/DPP/backend
+/simulators/SWS/loto-quebec-sws-server-*
+/simulators/app/operator/
+/simulators/app/player/
